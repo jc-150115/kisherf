@@ -6,7 +6,7 @@ using System.Text;
 using Xamarin.Forms;
 namespace SQLiteSample
 {
-    public partial　class App : Application
+    public partial　class App : Application//
     {
         public App()
         {
